@@ -1,0 +1,8 @@
+0,Parameter,Colour, Odour ,pH,Turbidity(NTU),Total Solids,Total Dissolved Solids(mg/L),Alkalinity(mg/L),Total Hardness(mg/L),Sulphate(mg/L),Chloride as Cl( mg/L),Iron as Fe( mg/L),Arsenic as As( mg/L)
+1,Standard Indian Limits (IS 10500:2004),colourless,Unobjectionable,6.5-8.5,5,-,500,200,300,200,250,0.3,0.01
+2,IS in the absence of alternative,Colourless,Unobjectionable,No Relaxation,10,-,2000,600,600,400,1000,1,0.05
+3,Dhanderi Domestic Handpump,Yellowish,Unobjectionable ,8.14,0.535,376,276,246.067,256,24,186.375,3.7,negligible
+4,Dhanderi India Mark-|| Handpump,Less Yellowish,Unobjectionable,8.23,0.524,345,269,254.09,234,27,183.6,3.2,negligible
+5,Bheladi Domestic Handpump,Yellowish,Unobjectionable,8.26,0.532,368,256,243.98,253,26,185.84,3.3,negligible 
+6,Tube Well ,Colourless,Unobjectionable,8.24,0.531,332,235,221.98,235,24,165.34,0.2,negligible 
+7,Other Areas of Roorkee,Colourless,Unobjectionable,8.21,0.543,321,220,208.86,230,21,134,0.02,negligible 
